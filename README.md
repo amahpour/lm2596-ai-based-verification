@@ -42,6 +42,25 @@ AI-based bring-up and profiling of the LM2596 Buck Converter using Rigol instrum
 
 All instruments are controlled via custom Rigol MCP servers from Claude Code.
 
+### Wiring Setup
+
+```
+                        DUT (LM2596 Module)
+                     ┌──────────────────────┐
+  DP832A CH2 ───────>│ IN+            OUT+ │───────> DL3021A (eload)
+                     │                      │
+             GND ───>│ IN-            OUT- │───────> DL3021A GND
+                     └──────────────────────┘
+                       │                  │
+                  Scope CH1          Scope CH2
+                  (input side)       (output side)
+```
+
+- **DP832A Channel 2** → DUT input (IN+/IN-)
+- **Scope Channel 1** → DUT input (monitors input voltage)
+- **DL3021A** → DUT output (OUT+/OUT-)
+- **Scope Channel 2** → DUT output (monitors output voltage/ripple)
+
 ## Repository Structure
 
 - `lm2596.pdf` — TI LM2596 datasheet
