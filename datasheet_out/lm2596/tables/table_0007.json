@@ -1,0 +1,54 @@
+{
+  "id": "table_0007",
+  "grid": [
+    [
+      "",
+      "THERMAL METRIC.",
+      "KTW (TO-263).",
+      "LM2596.NDZ (TO-220).5 PINS",
+      "LM2596..5 PINS",
+      "UNIT."
+    ],
+    [
+      "R θJA",
+      "Junction-to-ambient thermal resistance (2) (3)",
+      "See (4)",
+      "-",
+      "50",
+      "°C/W"
+    ],
+    [
+      "R θJA",
+      "Junction-to-ambient thermal resistance (2) (3)",
+      "See (5)",
+      "50",
+      "-",
+      "°C/W"
+    ],
+    [
+      "R θJA",
+      "Junction-to-ambient thermal resistance (2) (3)",
+      "See (6)",
+      "30",
+      "-",
+      "°C/W"
+    ],
+    [
+      "R θJA",
+      "Junction-to-ambient thermal resistance (2) (3)",
+      "See (7)",
+      "20",
+      "-",
+      "°C/W"
+    ],
+    [
+      "R θJC(top)",
+      "Junction-to-case (top) thermal resistance",
+      "",
+      "2",
+      "2",
+      "°C/W"
+    ]
+  ],
+  "caption": ""
+}

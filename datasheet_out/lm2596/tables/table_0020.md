@@ -1,0 +1,6 @@
+| 0 | 1 |
+| --- | --- |
+| Capacitors | Through-hole electrolytic |
+| Inductor | Through-hole, Renco |
+| Diode | Through-hole, 5-A 40-V, Schottky |
+| PCB | 3-square inch, single-sided, 2-oz. copper (0.0028″) |

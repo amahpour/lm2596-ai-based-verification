@@ -1,0 +1,6 @@
+| PARAMETER | EXAMPLE VALUE |
+| --- | --- |
+| Regulated output voltage (3.3V, 5V or 12V), V OUT | 20 V |
+| Maximum DC input voltage, V IN (max) | 28 V |
+| Maximum load current, I LOAD (max) | 3 A |
+| Switching frequency, F | Fixed at a nominal 150 kHz |

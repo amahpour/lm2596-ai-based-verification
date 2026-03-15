@@ -1,0 +1,56 @@
+{
+  "id": "table_0009",
+  "grid": [
+    [
+      "PARAMETER",
+      "PARAMETER",
+      "TEST CONDITIONS",
+      "TEST CONDITIONS",
+      "MIN (1)",
+      "TYP (2)",
+      "MAX (1)",
+      "UNIT"
+    ],
+    [
+      "SYSTEM PARAMETERS (3) (see Figure 9-13 for test circuit)",
+      "SYSTEM PARAMETERS (3) (see Figure 9-13 for test circuit)",
+      "SYSTEM PARAMETERS (3) (see Figure 9-13 for test circuit)",
+      "SYSTEM PARAMETERS (3) (see Figure 9-13 for test circuit)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "V OUT",
+      "Output voltage",
+      "7 V ≤ V IN ≤ 40 V,",
+      "T J = 25°C",
+      "4.8",
+      "5",
+      "5.2",
+      "V"
+    ],
+    [
+      "V OUT",
+      "",
+      "0.2 A ≤ I LOAD ≤ 3 A",
+      "-40°C ≤ T J ≤ 125°C",
+      "4.75",
+      "",
+      "5.25",
+      "V"
+    ],
+    [
+      "η",
+      "Efficiency",
+      "V IN = 12 V, I LOAD = 3 A",
+      "",
+      "80%",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "caption": ""
+}

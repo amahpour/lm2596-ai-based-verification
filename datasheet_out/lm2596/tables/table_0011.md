@@ -1,0 +1,7 @@
+| PARAMETER | PARAMETER | TEST CONDITIONS | TEST CONDITIONS | MIN (1) | TYP (2) | MAX (1) | UNIT |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| SYSTEM PARAMETERS (3) (see Figure 9-13 for test circuit) | SYSTEM PARAMETERS (3) (see Figure 9-13 for test circuit) | SYSTEM PARAMETERS (3) (see Figure 9-13 for test circuit) | SYSTEM PARAMETERS (3) (see Figure 9-13 for test circuit) | SYSTEM PARAMETERS (3) (see Figure 9-13 for test circuit) | SYSTEM PARAMETERS (3) (see Figure 9-13 for test circuit) | SYSTEM PARAMETERS (3) (see Figure 9-13 for test circuit) | SYSTEM PARAMETERS (3) (see Figure 9-13 for test circuit) |
+| V FB |  | 4.5 V ≤ V IN ≤ 40 V, 0.2 A ≤ I LOAD ≤ 3 A | 4.5 V ≤ V IN ≤ 40 V, 0.2 A ≤ I LOAD ≤ 3 A | 1.23 | 1.23 | 1.23 | V |
+| V FB | Feedback voltage | V OUT programmed for 3 V (see Figure 9-13 for test circuit) | T J = 25°C | 1.193 |  | 1.267 | V |
+| V FB | Feedback voltage | V OUT programmed for 3 V (see Figure 9-13 for test circuit) | -40°C ≤ T J ≤ 125°C | 1.18 |  | 1.28 | V |
+| η | Efficiency | V IN = 12 V, V OUT = 3 V, I LOAD = 3 A | V IN = 12 V, V OUT = 3 V, I LOAD = 3 A | 73% | 73% | 73% |  |

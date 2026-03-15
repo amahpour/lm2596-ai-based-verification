@@ -1,0 +1,6 @@
+| PARAMETER | PARAMETER | TEST CONDITIONS | TEST CONDITIONS | MIN (1) | TYP (2) | MAX (1) | UNIT |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| SYSTEM PARAMETERS (3) (see Figure 9-13 for test circuit) | SYSTEM PARAMETERS (3) (see Figure 9-13 for test circuit) | SYSTEM PARAMETERS (3) (see Figure 9-13 for test circuit) | SYSTEM PARAMETERS (3) (see Figure 9-13 for test circuit) |  |  |  |  |
+| V OUT | Output voltage | 15 V ≤ V IN ≤ 40 V, 0.2 A ≤ I LOAD ≤ 3 A | T J = 25°C | 11.52 | 12 | 12.48 | V |
+| V OUT | Output voltage | 15 V ≤ V IN ≤ 40 V, 0.2 A ≤ I LOAD ≤ 3 A | -40°C ≤ T J ≤ 125°C | 11.4 |  | 12.6 | V |
+| η | Efficiency | V IN = 25 V, I LOAD = 3 A |  | 90% |  |  |  |

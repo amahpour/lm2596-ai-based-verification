@@ -1,0 +1,4 @@
+|  | MIN | MAX | UNIT |
+| --- | --- | --- | --- |
+| Supply voltage | 4.5 | 40 | V |
+| Temperature | -40 | 125 | °C |

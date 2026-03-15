@@ -1,0 +1,24 @@
+{
+  "id": "table_0006",
+  "grid": [
+    [
+      "",
+      "MIN",
+      "MAX",
+      "UNIT"
+    ],
+    [
+      "Supply voltage",
+      "4.5",
+      "40",
+      "V"
+    ],
+    [
+      "Temperature",
+      "-40",
+      "125",
+      "°C"
+    ]
+  ],
+  "caption": ""
+}

@@ -1,0 +1,17 @@
+Orderable part number,Status (1),Material type (2),Package | Pins,Package qty | Carrier,RoHS (3),Lead finish/ Ball material (4),MSL rating/ Peak reflow (5),Op temp (°C),Part marking (6)
+LM2596T-12/LF03,Active,Production,TO-220 (NDH) | 5,45 | TUBE,Yes,SN,Level-1-NA-UNLIM,-,LM2596T -12 P+
+LM2596T-12/LF03.B,Active,Production,TO-220 (NDH) | 5,45 | TUBE,Yes,SN,Level-1-NA-UNLIM,-40 to 125,LM2596T -12 P+
+LM2596T-12/NOPB,Active,Production,TO-220 (NDH) | 5,45 | TUBE,Yes,SN,Level-1-NA-UNLIM,-,LM2596T -12 P+
+LM2596T-12/NOPB.B,Active,Production,TO-220 (NDH) | 5,45 | TUBE,Yes,SN,Level-1-NA-UNLIM,-40 to 125,LM2596T -12 P+
+LM2596T-3.3/LF03,Active,Production,TO-220 (NDH) | 5,45 | TUBE,Yes,SN,Level-1-NA-UNLIM,-,LM2596T -3.3 P+
+LM2596T-3.3/LF03.B,Active,Production,TO-220 (NDH) | 5,45 | TUBE,Yes,SN,Level-1-NA-UNLIM,-40 to 125,LM2596T -3.3 P+
+LM2596T-3.3/NOPB,Active,Production,TO-220 (NDH) | 5,45 | TUBE,Yes,SN,Level-1-NA-UNLIM,-,LM2596T -3.3 P+
+LM2596T-3.3/NOPB.B,Active,Production,TO-220 (NDH) | 5,45 | TUBE,Yes,SN,Level-1-NA-UNLIM,-40 to 125,LM2596T -3.3 P+
+LM2596T-5.0/LF03,Active,Production,TO-220 (NDH) | 5,45 | TUBE,Yes,SN,Level-1-NA-UNLIM,-,LM2596T -5.0 P+
+LM2596T-5.0/LF03.B,Active,Production,TO-220 (NDH) | 5,45 | TUBE,Yes,SN,Level-1-NA-UNLIM,-40 to 125,LM2596T -5.0 P+
+LM2596T-5.0/NOPB,Active,Production,TO-220 (NDH) | 5,45 | TUBE,Yes,SN,Level-1-NA-UNLIM,-,LM2596T -5.0 P+
+LM2596T-5.0/NOPB.B,Active,Production,TO-220 (NDH) | 5,45 | TUBE,Yes,SN,Level-1-NA-UNLIM,-40 to 125,LM2596T -5.0 P+
+LM2596T-ADJ/LF02,Active,Production,TO-220 (NEB) | 5,45 | TUBE,Yes,SN,Level-1-NA-UNLIM,-,LM2596T -ADJ P+
+LM2596T-ADJ/LF02.B,Active,Production,TO-220 (NEB) | 5,45 | TUBE,Yes,SN,Level-1-NA-UNLIM,-40 to 125,LM2596T -ADJ P+
+LM2596T-ADJ/NOPB,Active,Production,TO-220 (NDH) | 5,45 | TUBE,Yes,SN,Level-1-NA-UNLIM,-40 to 125,LM2596T -ADJ P+
+LM2596T-ADJ/NOPB.B,Active,Production,TO-220 (NDH) | 5,45 | TUBE,Yes,SN,Level-1-NA-UNLIM,-40 to 125,LM2596T -ADJ P+

@@ -1,0 +1,87 @@
+{
+  "id": "table_0019",
+  "grid": [
+    [
+      "OUTPUT VOLTAGE (V).OUTPUT VOLTAGE (V)",
+      "THROUGH-HOLE OUTPUT CAPACITOR.PANASONIC HFQ SERIES (μF/V)",
+      "THROUGH-HOLE OUTPUT CAPACITOR.NICHICON PL SERIES (μF/V)",
+      "THROUGH-HOLE OUTPUT CAPACITOR.FEEDFORWARD CAPACITOR",
+      "SURFACE-MOUNT OUTPUT CAPACITOR.AVX TPS SERIES (μF/V)",
+      "SURFACE-MOUNT OUTPUT CAPACITOR.SPRAGUE 595D SERIES (μF/V)",
+      "SURFACE-MOUNT OUTPUT CAPACITOR.FEEDFORWARD CAPACITOR"
+    ],
+    [
+      "2",
+      "820/35",
+      "820/35",
+      "33 nF",
+      "330/6.3",
+      "470/4",
+      "33 nF"
+    ],
+    [
+      "4",
+      "560/35",
+      "470/35",
+      "10 nF",
+      "330/6.3",
+      "390/6.3",
+      "10 nF"
+    ],
+    [
+      "6",
+      "470/25",
+      "470/25",
+      "3.3 nF",
+      "220/10",
+      "330/10",
+      "3.3 nF"
+    ],
+    [
+      "9",
+      "330/25",
+      "330/25",
+      "1.5 nF",
+      "100/16",
+      "180/16",
+      "1.5 nF"
+    ],
+    [
+      "1 2",
+      "330/25",
+      "330/25",
+      "1 nF",
+      "100/16",
+      "180/16",
+      "1 nF"
+    ],
+    [
+      "1 5",
+      "220/35",
+      "220/35",
+      "680 pF",
+      "68/20",
+      "120/20",
+      "680 pF"
+    ],
+    [
+      "2 4",
+      "220/35",
+      "150/35",
+      "560 pF",
+      "33/25",
+      "33/25",
+      "220 pF"
+    ],
+    [
+      "2 8",
+      "100/50",
+      "100/50",
+      "390 pF",
+      "10/35",
+      "15/50",
+      "220 pF"
+    ]
+  ],
+  "caption": ""
+}

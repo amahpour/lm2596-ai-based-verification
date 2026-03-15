@@ -1,0 +1,56 @@
+{
+  "id": "table_0025",
+  "grid": [
+    [
+      "Device",
+      "Package Type",
+      "Package Drawing",
+      "Pins",
+      "SPQ",
+      "Length (mm)",
+      "Width (mm)",
+      "Height (mm)"
+    ],
+    [
+      "LM2596SX-12/NOPB",
+      "DDPAK/TO-263",
+      "KTT",
+      "5",
+      "500",
+      "356.0",
+      "356.0",
+      "45.0"
+    ],
+    [
+      "LM2596SX-3.3/NOPB",
+      "DDPAK/TO-263",
+      "KTT",
+      "5",
+      "500",
+      "356.0",
+      "356.0",
+      "45.0"
+    ],
+    [
+      "LM2596SX-5.0/NOPB",
+      "DDPAK/TO-263",
+      "KTT",
+      "5",
+      "500",
+      "356.0",
+      "356.0",
+      "45.0"
+    ],
+    [
+      "LM2596SX-ADJ/NOPB",
+      "DDPAK/TO-263",
+      "KTT",
+      "5",
+      "500",
+      "356.0",
+      "356.0",
+      "45.0"
+    ]
+  ],
+  "caption": ""
+}
