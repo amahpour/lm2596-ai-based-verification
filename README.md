@@ -40,7 +40,11 @@ AI-based bring-up and profiling of the LM2596 Buck Converter using Rigol instrum
 | Electronic Load | Rigol DL3021A | 192.168.68.131 | Output load on DUT |
 | Oscilloscope | Rigol MSO5074 | 192.168.68.113 | Switching waveforms and ripple |
 
-All instruments are controlled via custom Rigol MCP servers from Claude Code.
+All instruments are controlled via custom Rigol MCP servers from Claude Code:
+
+- [rigol_dp832_mcp_server](https://github.com/amahpour/rigol_dp832_mcp_server) — Power supply control
+- [rigol_dl3021_mcp_server](https://github.com/amahpour/rigol_dl3021_mcp_server) — Electronic load control
+- [pymso5000-mcp](https://github.com/amahpour/pymso5000-mcp) — Oscilloscope control
 
 ### Wiring Setup
 
@@ -61,9 +65,22 @@ All instruments are controlled via custom Rigol MCP servers from Claude Code.
 - **DL3021A** → DUT output (OUT+/OUT-)
 - **Scope Channel 2** → DUT output (monitors output voltage/ripple)
 
+## Claude Code Skill
+
+A `/buck-converter-profile` skill is included in `.claude/skills/` for automated profiling. Usage:
+
+```
+/buck-converter-profile load-sweep 12 3    # Load regulation sweep at 12V in, 0-3A
+/buck-converter-profile line-sweep 3       # Line regulation sweep at 3A load
+/buck-converter-profile efficiency 12 3    # Efficiency curve
+/buck-converter-profile ripple 12 3        # Output ripple measurement
+/buck-converter-profile full 12 3          # Run all tests
+```
+
 ## Repository Structure
 
 - `lm2596.pdf` — TI LM2596 datasheet
 - `product_description.md` — Amazon listing details and board component analysis
 - `product_photos/` — Product images from Amazon listing
 - `datasheet_out/` — Extracted datasheet data (text, tables) via [datasheet-extractor](https://github.com/amahpour/datasheet-extractor)
+- `.claude/skills/` — Claude Code skill for automated buck converter profiling
