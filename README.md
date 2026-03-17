@@ -34,11 +34,11 @@ AI-based bring-up and profiling of the LM2596 Buck Converter using Rigol instrum
 
 ## Test Equipment
 
-| Instrument | Model | IP Address | Role |
-|---|---|---|---|
-| Power Supply | Rigol DP832A | 192.168.68.138 | Input power to DUT |
-| Electronic Load | Rigol DL3021A | 192.168.68.131 | Output load on DUT |
-| Oscilloscope | Rigol MSO5074 | 192.168.68.113 | Switching waveforms and ripple |
+| Instrument | Model | Role |
+|---|---|---|
+| Power Supply | Rigol DP832A | Input power to DUT |
+| Electronic Load | Rigol DL3021A | Output load on DUT |
+| Oscilloscope | Rigol MSO5074 | Switching waveforms and ripple |
 
 All instruments are controlled via custom Rigol MCP servers from Claude Code:
 
